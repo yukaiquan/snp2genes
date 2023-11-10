@@ -15,11 +15,11 @@ This script takes a list of SNPs Location and GFF file and returns a list of gen
 ./snp_loc_gene -i test.gff3 -l testSnpLoc.txt -o test.out -p 2000
 ```
 
--i : GFF file
--l : SNP Location file
--o : Output file
--p : Distance from SNP to search for genes
--m : mode of search (default: all)
+-i : GFF file </br>
+-l : SNP Location file </br>
+-o : Output file </br>
+-p : Distance from SNP to search for genes </br>
+-m : mode of search (default: all) </br>
 
 ## Input
 
